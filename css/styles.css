@@ -123,11 +123,11 @@ color: #2e2f42;
 text-transform: capitalize;
 }
 
-.team-list {
+.team-list {}
+
+.team-item {
     background-color: #FFFFFF;
 }
-
-.team-item {}
 
 .team-image {}
 
